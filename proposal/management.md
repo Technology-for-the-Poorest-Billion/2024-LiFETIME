@@ -21,7 +21,8 @@
 	- 3F8 and 3G3 - covering inference techniques. 
 	- 3E6 Organisational Behaviour: Group Dynamics theories. Relevant when working in teams.
 	- Hybrid Energy ExA: Analysing round-trip efficiency of Li-ion cells.
-**Weaknesses:**
+ 
+ **Weaknesses:**
 - Only took one information engineering module and zero electrical for IIA.
 - Limited knowledge of Nyquist stability techniques. Relevant for EIS.
 - Dropped Chemistry for Software at A-Level
@@ -36,6 +37,7 @@
 	- Thermodynamics and power generation, including fuel cells and energy storage
 - Chemistry A Level, including electrochemistry
 - Projects in python skills, including a project on logistic regression, PCA analysis and a project analysing a large financial data set using pandas
+
 **Weaknesses:**
 - No IIA electronics or electrical engineering, so equivalent circuit modelling is a weakness, along with control and systems engineering
 ## Required Resources
@@ -68,8 +70,9 @@ There are no additional risks for this project, given that all of our work is so
 | Stress                         | Reduced ability to concentrate, sleep. Cardiovascular issues. | L           | Regular discussion of project schedule. Planned contingencies allowing for a reduction in scope during the project. | L                           |
 | Repetitive Strain Injury (RSI) | Short and long-term musculoskeletal pain.                     | M           | Regular breaks, maintain proper workstation ergonomics.                                                             | L                           |
 ###### Risk Rating Guidance:
-| High:<br>- Fatality to one or more individuals however infrequent.<br>- Frequent major injuries to few individuals.<br>- Likelihood of long-term muscular-skeletal problems affecting a significant number of individuals. | Immediate action required.                                                  |
+| Risk Level | Action/Mitigations Required |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| High:<br>- Fatality to one or more individuals however infrequent.<br>- Frequent major injuries to few individuals.<br>- Likelihood of long-term muscular-skeletal problems affecting a significant number of individuals. | Immediate action required.                                                  |
 | Medium:<br>- Infrequent major injuries to one/few individuals.<br>- Likelihood of long-term muscular skeletal problems affecting some individuals.                                                                         | Requires attention as soon as possible.                                     |
 | Low:<br>- Minor injury occurring infrequently to few individuals.                                                                                                                                                          | Not a priority, may need attention if not as low as reasonably practicable. |
 ## Contingency plans
