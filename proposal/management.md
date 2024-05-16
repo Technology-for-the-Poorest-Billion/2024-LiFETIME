@@ -47,17 +47,17 @@ Cell cycling is an expensive, and time-consuming process. Open-source datasets e
 - Thursday 16th: **(Deliverable)** Proposal Presentation
 - Present initial research.
 - Monday 20th: 2nd meeting with LiFETIME.
-- Thursday 23rd: Interim Presentation.
-	- **Deliverables**
-		- Presentation
+- Thursday 23rd:
 	- **Deadlines**
 		- Data model choice (EIS vs. ICA)
 		- Dataset choice (NASA, Oxford, LiFETIME)
 		- Model choice (Using equivalent circuit, statistical regression or deep learning)
-- Monday 27th: 
+- Thursday 25th: 1to1 meetings with project leader to discuss team work.
+- Monday 27th: Interim Presentation
 	- **Deliverables**
 		- Present and evaluate a functioning model.
 		- Create model visualisations.
+		- Presentation
 	- Enact contingency plan if deliverables incomplete.
 - Tuesday 4th: **(Deliverable)** Final Presentation.
 - Thursday 6th: **(Deliverable)** Documentation Completion
