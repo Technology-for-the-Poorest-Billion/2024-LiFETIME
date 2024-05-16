@@ -1,5 +1,13 @@
 # Project management plan
-
+## Skills and Training Required:
+- Project Management
+- Research
+- Software Development
+- Statistics
+- Inference
+## Knowledge Required
+- Electrical Engineering
+- Chemistry
 ## The People
 #### Joe
 **Strengths:**
@@ -7,6 +15,7 @@
 - Previous experience developing neural networks.
 - Real world experience in Project Management within major construction projects.
 - E-Bike enthusiast. Worked with DIY battery packs and familiar with cell chemistry.
+- Real-world research experience, having worked at Bristol Robotics Laboratory on the Autonomous Robotics Evolution Project. Provided valuable experience of failure.
 - Relevant IIA Modules:
 	- 3A5 Thermodynamics and Power Generation. Includes cell chemistry and exergetic analysis.
 	- 3F8 and 3G3 - covering inference techniques. 
@@ -50,8 +59,6 @@ Cell cycling is an expensive, and time-consuming process. Open-source datasets e
 	- Enact contingency plan if deliverables incomplete.
 - Tuesday 4th: **(Deliverable)** Final Presentation.
 - Thursday 6th: **(Deliverable)** Documentation Completion
-
-
 ## Risk Assessment
 There are no additional risks for this project, given that all of our work is software and research. The standard risks of everyday office work apply,  with stress due to poor planning and time management being the significant risk. The assessment below is derived from HSE guidelines for work.
 
