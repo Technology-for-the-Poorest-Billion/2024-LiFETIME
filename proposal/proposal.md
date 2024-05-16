@@ -5,7 +5,7 @@ We recently met with the team, and following a combination of discussion and lit
 We also need to decide whether we are going to take a data-driven approach that relies less on the physical cell, or whether we focus on making an Equivalent Circuit Model (ECM) and then using the data to infer parameters and validate our assumptions. This decision will be made through further literature review, and ultimately we will select the option that is most feasible for our data and time-frame.
 # Technical Presentation
 ## What causes cells to fail?
-!(Pathways of cell degradation. Source: Vermeer, W.; Mouli, G. R. C.; Bauer, P. - IEEE TRANSACTIONS ON TRANSPORTATION ELECTRIFICATION, VOL. 8, NO. 2, JUNE 2022\10.1109/TTE.2021.3138357)[https://upload.wikimedia.org/wikipedia/commons/d/d9/2022-Vermeer-F2.jpg]
+![Pathways of cell degradation. Source: Vermeer, W.; Mouli, G. R. C.; Bauer, P. - IEEE TRANSACTIONS ON TRANSPORTATION ELECTRIFICATION, VOL. 8, NO. 2, JUNE 2022\10.1109/TTE.2021.3138357](https://upload.wikimedia.org/wikipedia/commons/d/d9/2022-Vermeer-F2.jpg)
 1. Reduction of organic carbonate electrolyte at anode -> Solid Electrolyte Interface grows -> Irreversibly traps $Li+$ , reducing amount available for battery storage.
 	1. Indicators -> Ohmic Impedance increases, reduced charge.
 	2. Antecedents -> At const. temperature, interface film thickness $\propto$ time spent in charged state. Doesn't occur with titanate anodes vs graphite nodes.
