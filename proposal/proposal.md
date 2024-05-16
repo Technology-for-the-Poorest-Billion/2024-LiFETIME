@@ -13,12 +13,13 @@ The value of LiFETIME to developing communities has the potential to be very hig
 
 We have the potential to add considerable value to the startup, or at least provide a useful starting point for the team to develop our work further, be it in adding complexity, adapting our model to other cells or training it with additional data. Our work will involve the analysis of their data for the first time, and we hope that we will be able to provide useful research for LiFETIME to learn from as they go on to develop their software solution. 
 
-# Presentation of the proposal
+# Technical presentation of the proposal
 
-Technical aspects may be described here.
+## Causes of cell degradation and failure
 
-# Assessment of the quality of the proposal
+## Methods of measurement
+### Electrochemical Impedance Spectroscopy
+EIS is a method of spectroscopy that detects the electrochemical reaction happening in the battery. An electric signal is applied with various frequencies to the battery system, giving an output that is a spectrum with a real and imaginary part, capturing the change in resistance of the battery. It is important to note that different frequencies correlate with different elements of the battery, and that the EIS spectrum is a Nyquist plot as a function of frequency, highlighting the different corresponding physical components. It is non-invasive to obtain spectrum, causing no damage to battery, and it can be done quickly in just 10-15 minutes. EIS spectrum changes with cycle number, making it a good indicator of degradation and SOH (State of Health). EIS data is usually interpreted using an ECM, specifically a parametric model, with a different ECM being required for each battery system. 
 
-Evaluate its value in the context of the project. What will it solve, is it safe, etc. Check Lara’s slides for what to cover.
-
+### Incremental Capacity Analysis
 
