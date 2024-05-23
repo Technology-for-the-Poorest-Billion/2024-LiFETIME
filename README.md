@@ -1,2 +1,8 @@
-# Project Template
-Fork this for a basic structure for each project
+# 2024-LiFETIME
+This is the repository for the LiFETIME Li-ion battery research project, undertaken as part of CUED's [GM2 Technology for the Poorest Billion](https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iia-project-gm2-technology-poorest-billion-2023-24) module.
+
+# Contents
+- **Data** contains measurements of Li-ion cells conducted by the LiFETIME team.
+- **Proposal** contains our initial plan, research and proposal for this project, presented on the 16th May/
+- **Interim** contains our subsequent progress as of the 27th May.
+- #todo insert explanatory notes on the rest of the files.
