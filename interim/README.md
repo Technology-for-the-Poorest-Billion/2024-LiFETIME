@@ -1,7 +1,7 @@
 # Interim report
 To be read alongside slides - see in folder **Interim**
 
-### How our objective has changed
+### How our objective have changed
 - When we last spoke, our objectives were to decide between EIS and ICA and create a model based on which ever method we chose
 - Since our last presentation, we've explored the data, creating visualisations and performing preliminary analysis
 - Following three meetings with the LiFETIME team, our direction is now looking towards fitting an equivalent circuit model to the provided EIS data for one battery, and determining how well this fits for other battery types
