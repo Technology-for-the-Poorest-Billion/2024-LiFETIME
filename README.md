@@ -9,3 +9,7 @@ This is the repository for the LiFETIME Li-ion battery research project, underta
 - **EIS_analysis** is a Jupyter Notebook containing plots and some preliminary analysis of the EIS data
 - **General_analysis** is a Jupyter Notebook containing preliminary analysis and plots of the cycling data 
 - **ECM_analysis** is a Jupyter Notebook containing work aiming to fit an equivalent circuit model to the EIS data
+
+# Requirements
+- Check requirements.txt and run the pip install script included in the notebook if needed.
+- Software has been verified working with the minimum version set out in the requirements. Other versions may not function as intended.
