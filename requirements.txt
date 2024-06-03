@@ -3,3 +3,6 @@ plotly >=5.9.0
 numpy >=1.26.4
 kaleido >=0.2.1
 scipy >=1.13.1
+sklearn
+impedance
+matplotlib
