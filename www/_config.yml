@@ -1,7 +1,6 @@
 title: LiFETIME
 
-author:
-  name: Amy Gibbon, Joseph Garvey
+author: Amy Gibbon, Joseph Garvey
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -30,6 +29,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
+  - index.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
