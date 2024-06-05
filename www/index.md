@@ -1,6 +1,6 @@
 ---
 header_title: "GM2 — Technology for the poorest billion"
-page_title: "Model design for cell health testing of lithium ion batteries for second life use"
+title: "Model design for cell health testing of lithium ion batteries for second life use"
 ---
 
 ## Problem outline
