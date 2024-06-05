@@ -1,1 +1,1 @@
-This project aims to further the development of 2nd life assessment for Li-ion batteries.
+This project aims to further the development of health assessment for second-life Li-ion batteries.
