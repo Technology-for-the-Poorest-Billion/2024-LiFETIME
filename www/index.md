@@ -1,6 +1,6 @@
 ---
-GM2 — Technology for the poorest billion
-Amy Gibbon and Joe Garvey
+title: "GM2 — Technology for the poorest billion"
+author: "Amy Gibbon and Joe Garvey"
 ---
 # Model design for cell health testing of lithium ion batteries for second life use
 
