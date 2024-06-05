@@ -6,7 +6,7 @@ author: Amy Gibbon, Joseph Garvey
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  The LiFETIME project aims to create viable 2nd lives for Li-ion batteries.
+  The LiFETIME project aims to create viable second lives for Li-ion batteries.
   All work here is the result of a collaboration between Cambridge University Engineering Department students
   and LiFETIME, as part of the IIA Engineering module "Technology for the Poorest Billion."
 
