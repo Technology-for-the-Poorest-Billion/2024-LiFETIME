@@ -11,7 +11,8 @@ The value of LiFETIME to developing communities has the potential to be very hig
 
 We have the potential to add considerable value to the startup by providing a starting point for the team to use when they begin to look at software. This value will be challenging to quantify, as there is no prior analysis of the data or existing model for us to compare our results to. Our work will involve the analysis of their data for the first time, and we hope that we will be able to provide useful research for LiFETIME to learn from as they go on to develop their software solution. Quantifying the success of this project is a challenge we have discussed with the project stakeholders, and further details of this can be seen in the project outline
 
-## Reflective discussion about the work’s alignment with the Sustainable Development Goals and where applicable with the UNICEF principles for Digital Development. -Joe
+## Alignment with SGDs and the UNICEF principles for Digital Development
+Reflective discussion about the work’s alignment with the Sustainable Development Goals and where applicable with the UNICEF principles for Digital Development. -Joe
 ~500 words
 We believe that the work of LiFETIME and their product has the potential to contribute to Sustainable Development Goals 7, 11 and 12. Inline with inclusive innovation practices, it responds to a genuine need and adds significant value.  
 
@@ -32,6 +33,9 @@ In summary, battery degradation is complex, and is affected by a number of diffe
 
 ## Reflection
 ### Statement from Joe:
+Statement about project management, explain the team work strategy. Reflect on
+what worked and what didn’t work, drawing constructive recommendations where
+possible. ~500 words, included in the webapge, git repo or github wiki.
 
 ### Statement from Amy:
 I think the team work strategy was effective. Meeting frequently with each other and the partners was crucial to our progress, as we learnt more when we shared our findings and found that talking to the LiFETIME team quickly solved many of our issues and gave us ideas to pursure. I think the admin/ communications with the LiFETIME perhaps could have been shared between us, and we probably should've realised sooner that LiFETIME would have a GitHub and asked for it at the very start, and then when it wasn't shared immediately we definitely could have got the project leader involved (we only gained access to the GitHub late into the project). I think we could've got further with the ECM fitting and had more results to share with the team if the capacity analysis had been completed more quickly (or perhaps in less detail, once we had decided that it wasn't the route we were planning to pursue), allowing us to both focus on the EIS data and share the workload on the ECM analyis. However, the capacity analysis is still useful.
