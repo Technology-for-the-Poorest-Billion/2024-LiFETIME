@@ -1,5 +1,3 @@
-
-title: "GM2 — Technology for the poorest billion"
 ---
 # Model design for cell health testing of lithium ion batteries for second life use
 ---
