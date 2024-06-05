@@ -2,7 +2,7 @@
 GM2 — Technology for the poorest billion
 Amy Gibbon and Joe Garvey
 ---
-#Model design for cell health testing of lithium ion batteries for second life use
+# Model design for cell health testing of lithium ion batteries for second life use
 
 ### Problem outline
 We are working alongside LiFETIME, a startup company looking to enable the second-life use of Lithium-ion batteries. Currently, batteries, especially those used in EVs, are deemed to reach “end-of-life” (EOL) when their maximum battery capacity falls to 70-80% of their rated value. These EOL batteries are then sent to landfill or recycling centres, both of which have severe environmental impacts including waste accumulation, fire hazard, and toxic gas release. There is very little circularity in the industry, with just 5% of Lithium-ion batteries currently being recycled, while batteries that still have 70-80% capacity are prematurely discarded.
