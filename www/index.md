@@ -12,13 +12,13 @@ LiFETIME are looking to provide a low-cost, open-source solution for cell health
 The value of the product that LiFETIME is hoping to produce has the potential to be very high, as, inline with inclusive innovation practices and the sustainable development goals, it responds to a genuine need and adds significant value. With solar power and other less reliable renewable energy sources become more affordable and prevalent, the need for inexpensive energy storage is increasing. This is matched with the increase in battery use in the developed world, especially in EVs, and therefore we are seeing increased supply of these EOL batteries that still have 70-80% capacity. Second life batteries would enable stable electrification in areas that have unreliable energy supply, for example areas that rely on renewable energy sources or have unstable supply from another area. For example, in South Africa where scheduled power outages (‘load-shedding’) are a daily challenge, affordable batteries would give security to small business owners, allowing them to run internet, fridges, payment machines and keep their lights on. In rural areas where power supply is variable, second-life batteries could be used in hospitals to run oxygen concentrators or life support machines during outages or overnight. Increasing energy accessibility also enables alternative earnings, such as allowing crop farmers to run irrigation pumps powered by solar-battery systems for higher yield, and helps to reduce rural-urban developmental inequalities.
 
 #### Alignment with SGDs and the UNICEF principles for Digital Development
-<img "width=200" src="Assets/SDG7.png"/>
-<img "width=200" src="Assets/SDG8.png"/>
-<img "width=200" src="Assets/SDG9.png"/>
-<img "width=200" src="Assets/SDG10.png"/>
-<img "width=200" src="Assets/SDG11.png"/>
-<img "width=200" src="Assets/SDG12.png"/>
-<img "width=200" src="Assets/SDG13.png"/>
+<img width=200 src="assets/SDG7.png"/>
+<img width=200 src="assets/SDG8.png"/>
+<img width=200 src="assets/SDG9.png"/>
+<img width=200 src="assets/SDG10.png"/>
+<img width=200 src="assets/SDG11.png"/>
+<img width=200 src="assets/SDG12.png"/>
+<img width=200 src="assets/SDG13.png"/>
 
 We believe our work aligns with [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) 7 to 13 and inclusive innovation practices by responding to a genuine need for affordable energy storage and reduction of battery waste. Battery health assessment will enable a reuse economy for cells (Goal 12), lowering the economic barrier to access affordable and sustainable energy storage (7) and provide employment through resales and cell assessment technicians (8). The low-cost of second use cells also makes large-scale grid storage for renewables more feasible, and for low-cost, localised energy grids to be created. (7) This will reduce inequalities between urban/rural inequalities and the Global North/South (10) as well as providing stability to the electrical grid (11). As Amy highlighted in our final presentation, increased access to energy in rural areas could enable alternative earnings, enabling crop farmers to run irrigation pumps for higher yields. For regions where the energy supply is unstable such as South Africa, hospitals can now afford to run their essential and life-saving equipment such as oxygen concentrators through these outages. Currently, only larger and high margin businesses have been able to afford uninterruptable power supplies. With cheap 2nd life cells, small businesses will be able to continuously run refrigeration, payment terminals and other essentials. This addresses goal 9, the provision of resilient infrastructure.
 Energy storage can help us meet goals 12 and 13, by reducing emissions and waste products associated with the production of energy and the manufacture of battery cells. With as much as 95% of cells being sent to landfill  [^1] and the world's capacity to produce cells expected to increase 6 times over in just a decade, the potential benefits are substantial. [^2]
