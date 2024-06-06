@@ -23,7 +23,9 @@ Cycle start is defined by the start of cell discharge.
 Current with the convention that +ve is *into* the cell.
 ##### Expected Results:
 RS is nominal 1.5Ah
+
 NX is nominal 1.8Ah
+
 SG is nominal 
 ##### Valid Cell Tests:
 NX001 (Negligible Ah degradation over 250+ cycles, voltage drops around cycle 210)
