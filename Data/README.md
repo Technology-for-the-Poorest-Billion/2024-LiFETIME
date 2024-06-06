@@ -23,8 +23,10 @@ Cycle start is defined by the start of cell discharge.
 Current with the convention that +ve is *into* the cell.
 ##### Expected Results:
 RS is nominal 1.5Ah
+
 NX is nominal 1.8Ah
-SG is nominal 
+
+SG is nominal 2.6Ah
 ##### Valid Cell Tests:
 NX001 (Negligible Ah degradation over 250+ cycles, voltage drops around cycle 210)
 - July has 87 cycles.
@@ -35,12 +37,19 @@ NX002 (Negligible Ah degradation over 250+ cycles, voltage drops around cycle 21
 - July has 88 cycles.
 - August has 171 cycles.
 RS001 <50mAh degradation over 250+ cycles. Temperature had more influence than degradation.
+
 RS006 <50mAh degradation over 250+ cycles. Temperature had more influence than degradation.
-SG003
-SG004
+
+SG003 Short test. 5% Wh and Ah degradation over 120 cycles
+
+SG004 Short test. 2% Wh and Ah degradation over 60 cycles.
+
 SG007 (3 tests) -> Degrades from 2.6Ah to 1.2Ah (46% SoH) over 396 cycles. 9.4Wh to 3.6Wh (38% SoH) -> Indicates voltage sag.
-SG008
+
+SG008 Short test. No degradation over 37 cycles.
+
 SG009 (3 tests) -> Degrades from 2.6Ah to 1.8Ah over 362 cycles (69% SoH). 9.3Wh to 6Wh (64.5% SoH) -> Indicates voltage sag.
+
 ##### Invalid Cell Tests:
 NX006
 - Something unusual happens in the final 2 cycles that confuses the capacity alogrithm.
