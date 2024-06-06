@@ -35,12 +35,19 @@ NX002 (Negligible Ah degradation over 250+ cycles, voltage drops around cycle 21
 - July has 88 cycles.
 - August has 171 cycles.
 RS001 <50mAh degradation over 250+ cycles. Temperature had more influence than degradation.
+
 RS006 <50mAh degradation over 250+ cycles. Temperature had more influence than degradation.
+
 SG003
+
 SG004
+
 SG007 (3 tests) -> Degrades from 2.6Ah to 1.2Ah (46% SoH) over 396 cycles. 9.4Wh to 3.6Wh (38% SoH) -> Indicates voltage sag.
+
 SG008
+
 SG009 (3 tests) -> Degrades from 2.6Ah to 1.8Ah over 362 cycles (69% SoH). 9.3Wh to 6Wh (64.5% SoH) -> Indicates voltage sag.
+
 ##### Invalid Cell Tests:
 NX006
 - Something unusual happens in the final 2 cycles that confuses the capacity alogrithm.
