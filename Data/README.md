@@ -40,13 +40,13 @@ RS001 <50mAh degradation over 250+ cycles. Temperature had more influence than d
 
 RS006 <50mAh degradation over 250+ cycles. Temperature had more influence than degradation.
 
-SG003
+SG003 Short test. 5% Wh and Ah degradation over 120 cycles
 
-SG004
+SG004 Short test. 2% Wh and Ah degradation over 60 cycles.
 
 SG007 (3 tests) -> Degrades from 2.6Ah to 1.2Ah (46% SoH) over 396 cycles. 9.4Wh to 3.6Wh (38% SoH) -> Indicates voltage sag.
 
-SG008
+SG008 Short test. No degradation over 37 cycles.
 
 SG009 (3 tests) -> Degrades from 2.6Ah to 1.8Ah over 362 cycles (69% SoH). 9.3Wh to 6Wh (64.5% SoH) -> Indicates voltage sag.
 
