@@ -9,7 +9,7 @@ This is the repository for the LiFETIME Li-ion battery research project, underta
 - **Data** contains measurements of Li-ion cells conducted by the LiFETIME team.
 - **Proposal** contains our initial plan, research and proposal for this project, presented on the 16th May/
 - **Interim** contains our subsequent progress as of the 27th May.
-- **Final** contains our final presentation, aimed at a more general audience than the proposal and interim presentations.
+- **Final** contains our final presentation (aimed at a more general audience than the proposal and interim presentations.) and our final report, which collates our work and code into a single file.
 - **EIS_analysis** is a Jupyter Notebook containing plots and some preliminary analysis of the EIS data
 - **General_analysis** is a Jupyter Notebook containing preliminary analysis and plots of the cycling data 
 - **ECM_analysis** is a Jupyter Notebook containing work aiming to fit an equivalent circuit model to the EIS data
