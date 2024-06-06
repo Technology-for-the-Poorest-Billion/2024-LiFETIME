@@ -26,7 +26,7 @@ RS is nominal 1.5Ah
 
 NX is nominal 1.8Ah
 
-SG is nominal 2.5Ah
+SG is nominal 2.6Ah
 ##### Valid Cell Tests:
 NX001 (Negligible Ah degradation over 250+ cycles, voltage drops around cycle 210)
 - July has 87 cycles.
